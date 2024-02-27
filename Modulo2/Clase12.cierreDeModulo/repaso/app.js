@@ -1,0 +1,1 @@
+const {manejadorEstudiante, Estudiante} = require("./estudiante");

@@ -1,0 +1,12 @@
+Metodologia agil scrum :
+
+Product Owner : Es la voz del cliente y es quien tomas las desiciones finales del producto. Se asegura que el equipo trabaje de forma adecuada.
+
+Scrum Master : Es un facilitador cuyo principal enfoque es asegurar el intercambio eficiente de informacion, responsable de controlar el tiempo 
+    las conversaciones y el proceso en general. Ayuda en eliminar obstaculos y distracciones. Comprueba que cada miembre use sus habilidades unicas.
+
+Equipo de desarrollo y equipo tecnico : Todas las capacidades tecnicas para entregar el producto. Son horizontales y las desiciones se toman por concenso.
+    Son autoorganizados , versatiles y responsables.
+
+Stakeholders : Son los accionistas.
+

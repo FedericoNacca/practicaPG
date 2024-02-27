@@ -1,0 +1,14 @@
+lista de extensiones que uso:
+
+Path Intellisense
+Spanish Language Pack for Visual Studio Code
+Prettier - Code formatter // visual
+vscode-icons
+Palenight Theme
+Live Server (mucho muy importante cuando estemos con html y no tiene contraindicacion jajaja)
+JavaScript (ES6) cowde snippets
+indent-rainbow // visual
+HTML CSS Support
+ESLint
+Error Lens
+

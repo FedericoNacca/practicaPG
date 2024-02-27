@@ -1,0 +1,50 @@
+Lógica y Algoritmos
+1- ¿Qué es programar?
+    Programa es un conjunto de operaciones e instrucciones que se ejecuntan en una computadora.
+    Para ser buenos desarrolladores hay que tener una buena comprensión del
+    pensamiento lógico de programación y de la construcción efectiva de algoritmos.
+
+2- ¿Por qué aprender lógica?
+    Es el estudio de las leyes del pensamiento o el razonamiento correcto.
+
+3- Proposiciones, premisas y conclusiones
+    - Una proposición es una oración declarativa que puede ser verdadera o falsa.
+    - Una premisa es una proposición que se conoce o se asume cómo verdadera
+    - Una conclusión es una proposición que se deriva mediante análisis lógico
+      deductivo en base a dos o más premisas relacionadas
+4- Operadores Lógicos
+    Conjunción: operador “y”
+    Disyunción: operador “o”
+    Negación: operador “no”
+    Uniendo todo
+
+5- Algoritmos
+    ¿Qué es un algoritmo?
+    “Un algoritmo es una secuencia, finita y rigurosa, de instrucciones típicamente usada
+     para resolver una clase específica de problemas.”
+
+6- ¿Cuáles son mis datos y qué tipos de datos son?
+    Tipos de datos primitivos
+    - números (enteros, reales, imaginarios), ej: 42
+    - texto o cadenas de caracteres, strings, ej: “un texto”
+    - valores de verdad, booleans, ej: true
+
+    Tipos de datos no-primitivos
+    - Listas de elementos, arrays, ej: [5,”hola”,falso]
+    - Estructuras que asocien alguna llave con algún valor, objetos.
+
+    Ej: { unaLLave=“unvalor”, otraLlave=22 }
+
+    - Funciones. Decimos que es un tipo de dato porque una variable puede guardar
+    funciones.
+
+    Condicionales
+    También conocidos como bifurcaciones o branching, son bloques de mi algoritmo que
+    se ejecutarán condicionalmente.
+
+    Ciclos
+    También conocidos como bucles o loops, son bloques de mi algoritmo que yo quiero
+    que se ejecuten muchas veces. Estos operan sobre alguna variable y tienen alguna
+    proposición definida que en caso de volverse falsa detienen el ciclo.
+
+    

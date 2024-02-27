@@ -1,0 +1,4 @@
+Inicializar un proyecto : 
+1. Crear carpeta  "app.js".
+2. Crear archivo package.json :  "npm init -y" .  //
+ 

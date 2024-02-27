@@ -1,0 +1,7 @@
+[{
+    "marca" : "2",
+    "nombre" : ["Gamora", "Hellboy", "Tony Stark", "Black Panther"],
+    "batman" : ["Captain", "America" ,"Superman"],
+    "precio" : 2000,
+    "stock" : 23
+}]   

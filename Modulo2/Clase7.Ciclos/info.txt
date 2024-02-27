@@ -1,0 +1,22 @@
+For y while :
+
+La principal diferencia entre los bucles for() y while() es que el bucle for() se ejecuta un número determinado de veces, 
+mientras que el bucle while() se ejecuta mientras la condición sea verdadera.
+
+En general, se recomienda utilizar un bucle for() cuando se sabe el número de iteraciones que se realizarán, y un bucle while() cuando no se sabe el número de iteraciones que se realizarán.
+
+Aquí hay un ejemplo de un bucle for():
+
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
+Este bucle se ejecutará diez veces, imprimiendo los números del 0 al 9.
+
+Aquí hay un ejemplo de un bucle while():
+
+let i = 0;
+while (i < 10) {
+  console.log(i);
+  i++;
+}
+Este bucle también se ejecutará diez veces, imprimiendo los números del 0 al 9.

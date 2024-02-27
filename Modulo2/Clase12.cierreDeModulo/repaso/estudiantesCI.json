@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Naccarato",
+        "edad": 33,
+        "curso": "Full stack",
+        "aprobado": true
+    },
+    {
+        "nombre": "María",
+        "apellido": "Gómez",
+        "edad": 28,
+        "curso": "Data Science",
+        "aprobado": false
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Rodríguez",
+        "edad": 25,
+        "curso": "Frontend Development",
+        "aprobado": true
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "López",
+        "edad": 30,
+        "curso": "UX/UI Design",
+        "aprobado": true
+    }
+]
+
+

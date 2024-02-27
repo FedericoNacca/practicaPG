@@ -1,0 +1,32 @@
+Modulos : Unbloque de codigo reutilizable , una unidad de funcionalidad 
+cuya existencia no altera incidentalmente el comprotamiento de otros 
+bloques de codigo.
+
+Modulos nativos que vienen con node : https://www.nodejs.org/api
+
+
+1. Crear archivo de entrada : app.js es el punto de entrada o Entry poin
+2. Requerir el modulo que deseas dentro del archivo de entrada. 
+    const fs = require("fs");   
+    *fs es file sistem
+
+Tipos de modulos :
+1. Nativos : ya vienen instalados cuando creamos el proyecto
+2. De terceros : podemos instarlos usando npm 
+3. Creados : aquellos que escribimos nosotros
+Por convencion el nombre de la variable a donde vamos a almacenar el modulo que estamos requiriendo 
+    suele recibir el mismo nombre que el modulo.
+
+Para exportar : module.exports = nombre;
+Hacemos uso del objeto module y su propiedad exports y le asignamos la variable que queremos exportar
+
+Para importar : require(./"carpeta.nombreArchivo");
+let modulo = require(./"nombreModulo");
+
+
+
+let fs = require("fs");   // Para requerir el modulo File Sistem.
+
+const path = require("path");  //Para requerir modulo propio.
+
+

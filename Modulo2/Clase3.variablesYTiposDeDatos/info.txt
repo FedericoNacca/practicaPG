@@ -1,0 +1,11 @@
+Script : "Un script es un fragmento de código diseñado para realizar pequeñas acciones en una página web"
+
+HTML : Es el lenguaje de marcado que se utiliza para estructurar las paginas , definiendo parrafos , encabezados , tablas de contenido 
+o ingresar imagenes y videos en la pagina . 
+
+CSS : Es un lenguaje de estirilizacion que define reglas de estilo para el contenido HTML , por ejemplo : Definir colores de fondo y 
+las fuentes.
+
+Java script : Permite el desarrollo de contenido dinamico, interactuando con el usuario y controlando multimedia , imagenes animadas , etc.
+
+

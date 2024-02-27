@@ -1,0 +1,58 @@
+[
+{
+    "nombre": "Pedro",
+    "apellido": "Martínez",
+    "edad": 35,
+    "curso": "Backend Development",
+    "aprobado": false
+},
+{
+    "nombre": "Laura",
+    "apellido": "Fernández",
+    "edad": 27,
+    "curso": "Mobile App Development",
+    "aprobado": true
+},
+{
+    "nombre": "Javier",
+    "apellido": "Hernández",
+    "edad": 32,
+    "curso": "Cybersecurity",
+    "aprobado": false
+},
+{
+    "nombre": "Sofía",
+    "apellido": "Díaz",
+    "edad": 29,
+    "curso": "Cloud Computing",
+    "aprobado": true
+},
+{
+    "nombre": "Diego",
+    "apellido": "Alvarez",
+    "edad": 26,
+    "curso": "Machine Learning",
+    "aprobado": true
+},
+{
+    "nombre": "Valeria",
+    "apellido": "Ramírez",
+    "edad": 31,
+    "curso": "DevOps",
+    "aprobado": false
+},
+{
+    "nombre": "Héctor",
+    "apellido": "Torres",
+    "edad": 34,
+    "curso": "Blockchain",
+    "aprobado": true
+},
+{
+    "nombre": "Gabriela",
+    "apellido": "Mendoza",
+    "edad": 28,
+    "curso": "Game Development",
+    "aprobado": false
+}
+]

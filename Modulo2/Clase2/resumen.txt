@@ -1,0 +1,29 @@
+Paradigma de programacion :
+
+    Programacion imperativa
+    A)Programacion estructurada: Se define mediante bucles , anidados, condicionales
+        y subrutinas, en lugar de a travez del "go to".
+    B)Programacion procedimental : Numero muy bajo de expreciones repetidas , englobadas
+        todas en un procedimiento o funcion y llamarla cada vez que tenga que ejecutarse.
+    C)Programacion modular: Consiste en dividir programas en modulos o subprogramas con el fin de 
+        hacerlo mas manejable y legible.
+
+!)Los programas consisten en una sucesion de instrucciones o conjunto
+    de sentencias , paso a paso.
+
+    Programacion declarativa:
+        No necesita definir algoritmos puesto que describe el problema en lugar
+        de encontrar una solucion al mismo.
+    A)Programacion logica
+    B)Programacion funcional
+    C)Programacion reactiva : Se basa en escuchar lo que emite un evento o cambio en el flujo de
+        datos, en donde los objetos reaccionan a los valores que reciben de dicho cambio.
+
+    Variables : Espacio de memoria dinde se almacena un dato que podemos utilizarlo en el futuro.
+        Permite guardar informacion.
+
+    Formatos :
+    Camelcase = Utilizar una legra matuscula cada vez que empeza un nueva palabra
+    Snakecase = Utiliza un guion bajo.
+    Kebabcase = Utiliza un guion medio.
+    
